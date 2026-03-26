@@ -1,7 +1,7 @@
 # Four Filters — Team Convergence Template
 
 **Team Name:** Clockwork orange
-**Team Members:** Demetre Mikeladze, Saba Morchilashvili , Elguja Tsitaishvili
+**Team Members:** Demetre Mikeladze, Saba Morchilashvili , Elguja Tsitaishvili \n
 **Date:** Friday 20 March 2026
 **Time budget:** 30 minutes
 
