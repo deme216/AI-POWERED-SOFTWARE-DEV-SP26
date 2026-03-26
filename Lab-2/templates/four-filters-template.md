@@ -13,9 +13,9 @@ List every project idea raised by team members. No evaluation yet — just captu
 
 | # | Idea (one sentence) | Proposed by |
 |---|---------------------|-------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
+| 1 |technichal anylysis of racing perfomance | Demetre Mikeladze|
+| 2 |delayed footage of injured animal's data | Demetre Mikeladze|
+| 3 |documenting a hike without being on the phone all the time | Demetre Mikeladze|
 | 4 | | |
 | 5 | | |
 
