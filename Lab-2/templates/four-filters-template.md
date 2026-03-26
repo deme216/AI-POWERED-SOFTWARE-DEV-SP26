@@ -2,7 +2,7 @@
 
 **Team Name:** Clockwork orange
 **Team Members:** Demetre Mikeladze, Saba Morchilashvili , Elguja Tsitaishvili  
-**Date:** Friday 20 March 2026 
+**Date:** Friday 20 March 2026    
 **Time budget:** 30 minutes
 
 ---
